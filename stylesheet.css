@@ -1,7 +1,4 @@
 body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 50px;
-  display: flex;
-  display: table-cell;
-  vertical-align: middle;
 }
