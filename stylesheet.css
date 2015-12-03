@@ -22,4 +22,14 @@ html {
     transform: translateX(-50%) translateY(-50%);
   color: #a6a6a6;
 }
-
+#latestartschedule {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  background-color: #f2f2f2;
+  text-shadow: 1px 1px #404040;
+  position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+  color: #a6a6a6;
+}
